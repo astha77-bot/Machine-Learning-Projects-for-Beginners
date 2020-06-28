@@ -8,4 +8,5 @@ We can use any classification algorithm to solve the problem.I will go with deci
 ##### 3.Train the Model
 We can train the model with fit function.
 ##### 4.Make predictions
-Predictions can be done with predict function
+Predictions can be done with predict function.
+Accuracy(97%)
