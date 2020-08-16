@@ -1,5 +1,5 @@
 # Basic-Data-Science-Projects-for-Beginners
-## 1.Iris Classification
+## Iris Classification
 Problem Statement:Create the model that can classify the different species of the Iris flower.
 ##### 1.Create the datasets
 Inorder to classify the different species of the Iris,We should prepare the datasets with features and labels.But sklearn comes with the inbuilt datasets for the iris classification problem.Splitting the dataset:Since our process involve training and testing ,We should split our dataset.It can be executed by the following code
