@@ -1,5 +1,5 @@
-#KNeighborsClassifier
-#With better acurracy than Decision tree
+# KNeighborsClassifier
+# With better acurracy than Decision tree
 
 
 from sklearn import datasets
