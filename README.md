@@ -12,7 +12,7 @@ Predictions can be done with predict function.
 Accuracy(97%)
 
 # Article -
-##[Article](https://towardsdatascience.com/machine-learning-general-process-8f1b510bd8af)
+## [Article](https://towardsdatascience.com/machine-learning-general-process-8f1b510bd8af)
 
 # Crash Course for ML-
 ## [Crash Course](https://developers.google.com/machine-learning/crash-course)
